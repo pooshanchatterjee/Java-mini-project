@@ -1,5 +1,26 @@
 # University Management System
 
+# 1. Introduction
+
+## Purpose
+
+The University Management System is designed to streamline administrative tasks within a university, providing an efficient and centralized platform for managing various processes such as student management,course management, faculty management, exam management, and grade management.
+
+## Scope
+
+This documentation aims to give its users an overview of how the app works and how its different users such as the student, faculty and administration can use the University Management System app. It covers both user and administrative functionalities.
+
+## Target Audience
+
+<li>University administrators</li><li>Faculty members</li><li>Students</li>
+
+# 2. System Overview
+
+## Features
+
+<li>User registration and authentication</li>
+<li>Student management (personal information, examination marks, leave details)</li><li>Course management (creation)</li><li>Faculty management (personal information, contact details, leave details)</li><li>Courses management (add/drop courses)</li><li>Exam management (grading)</li><li>Grade management</li><li>Report generation (student performance)</li>
+
 ## Requirements:
 
 ### Softwares:
