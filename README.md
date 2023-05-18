@@ -19,7 +19,7 @@ This documentation aims to give its users an overview of how the app works and h
 ## Features
 
 <li>User registration and authentication</li>
-<li>Student management (personal information, examination marks, leave details)</li><li>Course management (creation)</li><li>Faculty management (personal information, contact details, leave details)</li><li>Courses management (add/drop courses)</li><li>Exam management (grading)</li><li>Grade management</li><li>Report generation (student performance)</li>
+<li>Student management (personal information, examination marks, leave details)</li><li>Faculty management (personal information, contact details, leave details)</li><li>Courses management (add/drop courses)</li><li>Exam management (grading)</li><li>Report generation (student performance)</li>
 
 ## Requirements:
 
