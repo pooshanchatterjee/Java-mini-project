@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The University Management System is designed to streamline administrative tasks within a university, providing an efficient and centralized platform for managing various processes such as student management,course management, faculty management, exam management, and grade management.
+The University Management System is designed to streamline administrative tasks within a university, providing an efficient and centralised platform for managing various processes such as student management,course management, faculty management, exam management, and grade management.
 
 ## Scope
 
